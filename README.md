@@ -5,7 +5,7 @@ Create an interactive display of all of the Kanji from your decks with a relativ
 **Only tested for Anki 23.12.1**
 
 This version is a version I edit myself for personal use because i could not find another working Kanji-Grid version for the new Anki version.
-I also added one Feature: Sorting the Kanji grid by how often you have seen a Kanji.
+I also added one Feature: Sorting the Kanji grid by how often you have seen a Kanji. (Example of a sorted Kanji Grid at the end)
 I have not tested this on any other machine other than my main pc so it might not work for you ( but it should... ), so if you try it let me know if it works.
 This is also my first public GitHub Repo. If you have any cool feature Idea maybe let me know so i may or may not implement it :)
 
@@ -85,6 +85,8 @@ When viewing the grid, you can hover over any Kanji to view stats related to you
 Finally, you may choose to export the results into an HTML document or into a PDF file by using the export buttons at the bottom of the grid view.
 ![Export][export]
 
+Here an Example of a sorted Kanji-Grid, notice at the bottom "Toggle Sorted" is to change from sorted to non-sorted and vice versa.
+![KanjiGridSorted](https://github.com/user-attachments/assets/30c5e07b-51c8-4d6b-81cc-801350e21dae)
 
 [conf-menu]: https://user-images.githubusercontent.com/904738/50525132-3febb300-0a9f-11e9-8cc8-bef59a926e04.png
 [group-menu]: https://user-images.githubusercontent.com/904738/50525133-3febb300-0a9f-11e9-9d08-7de1733b54d2.png
