@@ -2,9 +2,14 @@
 
 Create an interactive display of all of the Kanji from your decks with a relative strength measurement.
 
-**Requires Anki 2.1**
+**Only tested for Anki 23.12.1**
 
-Add-On homepage: https://github.com/jyore/anki-kanji-grid<br/>
+This version is a version I edit myself for personal use because i could not find another working Kanji-Grid version for the new Anki version.
+I also added one Feature: Sorting the Kanji grid by how often you have seen a Kanji.
+I have not tested this on any other machine other than my main pc so it might not work for you ( but it should... ), so if you try it let me know if it works.
+This is also my first public GitHub Repo. If you have any cool feature Idea maybe let me know so i may or may not implement it :)
+
+The original Add-On homepage: https://github.com/jyore/anki-kanji-grid<br/>
 Issue list: https://github.com/jyore/anki-kanji-grid/issues
 
 
@@ -24,6 +29,7 @@ Features include:
   - Grade Level
   - Jouyou & Jinmeiyou
   - None (Get a single printout for all Kanji, without being grouped)
+- Sorting Kanji within those sets by how often one has seen them
 
 
 Based on the original Kanji grid add-on and its various forks.
