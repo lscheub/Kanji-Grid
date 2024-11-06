@@ -10,8 +10,6 @@ I have not tested this on any other machine other than my main pc so it might no
 This is also my first public GitHub Repo. If you have any cool feature Idea maybe let me know so i may or may not implement it :)
 
 The original Add-On homepage: https://github.com/jyore/anki-kanji-grid<br/>
-Issue list: https://github.com/jyore/anki-kanji-grid/issues
-
 
 Features include:
 - Interactive graphical representation of your kanji knowledge
